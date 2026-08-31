@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#173f3b" />
+  <meta name="description" content="Official attendee agenda for the 2026 National Rural STEM Summit, September 3-4 at Midwestern University in Glendale, Arizona." />
+  <title>2026 National Rural STEM Summit</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="assets/icon-192.png" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <button class="brand-button" type="button" data-view="home" aria-label="Go to conference home">
+        <img src="assets/summit-logo.png" alt="National Rural STEM Learning Summit" class="brand-logo" />
+      </button>
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <button type="button" data-view="home">Home</button>
+        <button type="button" data-view="schedule">Schedule</button>
+        <button type="button" data-view="mine">My Schedule</button>
+        <button type="button" data-view="presenters">Presenters</button>
+        <button type="button" data-view="info">Info</button>
+      </nav>
+      <button id="globalSearchButton" class="icon-button" type="button" aria-label="Search conference">⌕</button>
+    </div>
+  </header>
+
+  <main id="main" class="app-shell" tabindex="-1">
+    <section id="view-home" class="view active" aria-labelledby="homeTitle">
+      <div class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">September 3-4, 2026 · Glendale, Arizona</p>
+          <h1 id="homeTitle">2026 National Rural STEM Summit</h1>
+          <p class="hero-subtitle">Practical ideas, meaningful connections, and rural STEM leadership - together at Midwestern University.</p>
+          <div class="hero-actions">
+            <button class="button primary" type="button" data-view="schedule">Explore the schedule</button>
+            <button class="button secondary" type="button" data-view="mine">Open My Schedule</button>
+          </div>
+        </div>
+        <div class="hero-date-card" aria-label="Conference details">
+          <div class="date-card-month">SEP</div>
+          <div class="date-card-days">3-4</div>
+          <div class="date-card-year">2026</div>
+          <div class="date-card-divider"></div>
+          <div class="date-card-place">Midwestern University<br><span>Glendale, Arizona</span></div>
+        </div>
+      </div>
+
+      <section class="status-panel" aria-live="polite">
+        <div class="section-heading compact">
+          <div>
+            <p class="eyebrow">At a glance</p>
+            <h2 id="statusTitle">Summit countdown</h2>
+          </div>
+          <span id="statusBadge" class="status-badge">Upcoming</span>
+        </div>
+        <div id="statusContent" class="status-content"></div>
+      </section>
+
+      <section class="quick-grid" aria-label="Quick conference links">
+        <button type="button" class="quick-card" data-view="schedule">
+          <span class="quick-icon">▦</span><span><strong>Full schedule</strong><small>Browse by day, time, or room</small></span>
+        </button>
+        <button type="button" class="quick-card" data-view="presenters">
+          <span class="quick-icon">◎</span><span><strong>Presenters</strong><small>Search speakers and bios</small></span>
+        </button>
+        <button type="button" class="quick-card" data-view="mine">
+          <span class="quick-icon">★</span><span><strong>My Schedule</strong><small>Save sessions on this device</small></span>
+        </button>
+        <button type="button" class="quick-card" data-view="info">
+          <span class="quick-icon">⌖</span><span><strong>Campus & event info</strong><small>Venue, parking, sponsors, links</small></span>
+        </button>
+      </section>
+
+      <section class="home-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Featured</p>
+            <h2>Friday keynote</h2>
+          </div>
+        </div>
+        <div id="keynoteCard"></div>
+      </section>
+
+      <section class="home-section hosts-strip">
+        <div class="section-heading centered">
+          <div>
+            <p class="eyebrow">Presented by</p>
+            <h2>Summit hosts</h2>
+          </div>
+        </div>
+        <div id="hostLogos" class="host-logos"></div>
+      </section>
+    </section>
+
+    <section id="view-schedule" class="view" aria-labelledby="scheduleTitle">
+      <div class="page-heading">
+        <p class="eyebrow">Plan your summit</p>
+        <h1 id="scheduleTitle">Schedule</h1>
+        <p>Search sessions, filter by day or room, and save anything you do not want to miss.</p>
+      </div>
+
+      <div class="toolbar sticky-toolbar">
+        <div class="day-toggle" role="tablist" aria-label="Conference day">
+          <button id="dayThursday" type="button" class="active" data-day="Thursday" role="tab" aria-selected="true">Thursday · Sep 3</button>
+          <button id="dayFriday" type="button" data-day="Friday" role="tab" aria-selected="false">Friday · Sep 4</button>
+        </div>
+        <label class="search-field">
+          <span class="sr-only">Search sessions</span>
+          <span aria-hidden="true">⌕</span>
+          <input id="sessionSearch" type="search" placeholder="Search sessions or presenters" autocomplete="off" />
+        </label>
+        <div class="filter-row">
+          <label>Room
+            <select id="roomFilter"><option value="">All rooms</option></select>
+          </label>
+          <label>Type
+            <select id="typeFilter"><option value="">All types</option></select>
+          </label>
+        </div>
+      </div>
+      <div id="scheduleResults" class="schedule-list" aria-live="polite"></div>
+    </section>
+
+    <section id="view-mine" class="view" aria-labelledby="mineTitle">
+      <div class="page-heading">
+        <p class="eyebrow">Your picks</p>
+        <h1 id="mineTitle">My Schedule</h1>
+        <p>Sessions saved here stay on this device. No account or sign-in is required.</p>
+      </div>
+      <div id="myScheduleResults" class="schedule-list"></div>
+    </section>
+
+    <section id="view-presenters" class="view" aria-labelledby="presentersTitle">
+      <div class="page-heading">
+        <p class="eyebrow">Meet the people</p>
+        <h1 id="presentersTitle">Presenters</h1>
+        <p>Search presenter names, read bios, and jump directly to their sessions.</p>
+      </div>
+      <label class="search-field presenter-search">
+        <span aria-hidden="true">⌕</span>
+        <input id="presenterSearch" type="search" placeholder="Search presenters" autocomplete="off" />
+      </label>
+      <div id="presenterGrid" class="presenter-grid" aria-live="polite"></div>
+    </section>
+
+    <section id="view-info" class="view" aria-labelledby="infoTitle">
+      <div class="page-heading">
+        <p class="eyebrow">Know before you go</p>
+        <h1 id="infoTitle">Conference information</h1>
+      </div>
+
+      <div class="info-grid">
+        <article class="info-card venue-card">
+          <span class="info-kicker">Venue</span>
+          <h2>Midwestern University</h2>
+          <p>19555 N 59th Ave<br>Glendale, AZ 85308</p>
+          <div class="button-row">
+            <a class="button primary small" href="https://www.google.com/maps/search/?api=1&query=19555+N+59th+Ave+Glendale+AZ+85308" target="_blank" rel="noopener">Open directions</a>
+            <a class="button secondary small" href="https://azruralstemsummit.net/" target="_blank" rel="noopener">Conference website</a>
+          </div>
+        </article>
+        <article class="info-card">
+          <span class="info-kicker">Dates</span>
+          <h2>September 3-4, 2026</h2>
+          <p>All schedule times are shown in Arizona time (MST / America-Phoenix).</p>
+        </article>
+      </div>
+
+      <section class="map-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Parking & buildings</p>
+            <h2>Campus map</h2>
+          </div>
+        </div>
+        <div class="map-panel">
+          <img src="assets/campus-map.png" alt="Annotated Midwestern University campus map showing summit parking and buildings" />
+          <div class="map-missing">
+            <strong>Campus map ready for upload</strong>
+            <p>Add the annotated image as <code>assets/campus-map.png</code> and it will appear here automatically.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="sponsor-section">
+        <div class="section-heading centered">
+          <div>
+            <p class="eyebrow">With gratitude</p>
+            <h2>2026 sponsors</h2>
+            <p>The summit is made possible through the generous support of our partners and sponsors.</p>
+          </div>
+        </div>
+        <div id="sponsorGrid" class="sponsor-grid"></div>
+      </section>
+    </section>
+  </main>
+
+  <nav class="mobile-nav" aria-label="Mobile navigation">
+    <button type="button" data-view="home"><span>⌂</span>Home</button>
+    <button type="button" data-view="schedule"><span>▦</span>Schedule</button>
+    <button type="button" data-view="mine"><span>★</span>My Schedule</button>
+    <button type="button" data-view="presenters"><span>◎</span>Presenters</button>
+    <button type="button" data-view="info"><span>⌖</span>Info</button>
+  </nav>
+
+  <footer class="site-footer">
+    <img src="assets/mountain-brand.png" alt="" aria-hidden="true" />
+    <p>2026 National Rural STEM Summit · September 3-4 · Midwestern University</p>
+  </footer>
+
+  <dialog id="detailDialog" class="detail-dialog">
+    <button id="dialogClose" class="dialog-close" type="button" aria-label="Close details">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <dialog id="searchDialog" class="search-dialog">
+    <div class="search-dialog-header">
+      <label class="search-field large">
+        <span aria-hidden="true">⌕</span>
+        <input id="globalSearch" type="search" placeholder="Search sessions and presenters" autocomplete="off" />
+      </label>
+      <button id="searchClose" type="button" class="text-button">Close</button>
+    </div>
+    <div id="globalSearchResults" class="global-search-results"></div>
+  </dialog>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
