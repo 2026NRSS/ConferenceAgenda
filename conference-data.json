@@ -12,20 +12,46 @@
   "sessions": [
     {
       "id": "s-001",
+      "title": "Breakfast",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "7:00 AM",
+      "startMinutes": 420,
+      "room": "2nd Floor Lobby",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-002",
       "title": "Welcome",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "8:00 AM",
+      "startMinutes": 480,
+      "room": "Auditorium",
+      "type": "Program",
+      "description": "Welcome to the 4th Annual National Rural STEM Summit from the Director of the Conference! Let's start off with some housekeeping information, and set the stage for an exciting two days of sharing and learning from people committed to improving STEM opportunities, access, and experiences across rural America!",
+      "presenterIds": [
+        "p-kal-mannis"
+      ]
+    },
+    {
+      "id": "s-003",
+      "title": "Opening Remarks",
       "day": "Thursday",
       "date": "2026-09-03",
       "time": "8:15 AM",
       "startMinutes": 495,
-      "room": null,
-      "type": "Welcome",
-      "description": "",
+      "room": "Auditorium",
+      "type": "Program",
+      "description": "Dr. Yir Glora Yueh is the Provost of Midwestern University. Join us as she welcomes the event, and then kicks off the MWU Tours.",
       "presenterIds": [
         "p-yir-glora-yueh-ph-d"
       ]
     },
     {
-      "id": "s-002",
+      "id": "s-004",
       "title": "Healthcare 2030 - A Multisector Discussion on Needs, Assets, and Pathways Across the Healthcare Spectrum",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -42,7 +68,7 @@
       ]
     },
     {
-      "id": "s-003",
+      "id": "s-005",
       "title": "AI in Education - Engineering Prompts for maximizing productivity",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -56,7 +82,7 @@
       ]
     },
     {
-      "id": "s-004",
+      "id": "s-006",
       "title": "Connecting Educators with Environmental Professionals & Resources for meaningful STEM learning",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -71,7 +97,7 @@
       ]
     },
     {
-      "id": "s-005",
+      "id": "s-007",
       "title": "Organized Chaos: Using Evidence, Conversation, and Student Ownership to Drive STEM Learning",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -85,7 +111,7 @@
       ]
     },
     {
-      "id": "s-006",
+      "id": "s-008",
       "title": "Understanding Learning and Workforce Systems",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -99,7 +125,19 @@
       ]
     },
     {
-      "id": "s-007",
+      "id": "s-009",
+      "title": "Break with Exhibitors",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "10:30 AM",
+      "startMinutes": 630,
+      "room": "131",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-010",
       "title": "Semiconductor Partnership Programming",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -114,7 +152,21 @@
       ]
     },
     {
-      "id": "s-008",
+      "id": "s-011",
+      "title": "Engaging Educators through Self-Driven Professional Learning as part of the Arizona STEM Acceleration Project (ASAP)",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "11:00 AM",
+      "startMinutes": 660,
+      "room": "238",
+      "type": "Session",
+      "description": "",
+      "presenterIds": [
+        "p-amanda-whitehurst"
+      ]
+    },
+    {
+      "id": "s-012",
       "title": "Language Culture and STEM - Indigenous Community Co-Design for STEM Exhibit",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -128,7 +180,7 @@
       ]
     },
     {
-      "id": "s-009",
+      "id": "s-013",
       "title": "Place-Based Learning Connecting Field Research and Work Skills",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -142,7 +194,7 @@
       ]
     },
     {
-      "id": "s-010",
+      "id": "s-014",
       "title": "Turning Knowledge Into Action",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -156,7 +208,19 @@
       ]
     },
     {
-      "id": "s-011",
+      "id": "s-015",
+      "title": "Lunch with Table Talk",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "12:00 PM",
+      "startMinutes": 720,
+      "room": "2nd Floor Lobby",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-016",
       "title": "Smithsonian STARS- Scientists Taking Astronomy to Rural Schools",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -171,7 +235,7 @@
       ]
     },
     {
-      "id": "s-012",
+      "id": "s-017",
       "title": "Maximum Profit, Minimum Impact: Sustainable Mining Engineering",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -186,7 +250,7 @@
       ]
     },
     {
-      "id": "s-013",
+      "id": "s-018",
       "title": "AI Productivity for K-12 Educators: Tips and Tricks with Claude, ChatGPT, and Gemini",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -201,7 +265,7 @@
       ]
     },
     {
-      "id": "s-014",
+      "id": "s-019",
       "title": "\"Make, Take, Collaborate” Bringing STEM to life through library partnerships",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -215,7 +279,7 @@
       ]
     },
     {
-      "id": "s-015",
+      "id": "s-020",
       "title": "Growing STEM Where You Are: Ecosystem Strategies for Rural Communities",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -229,7 +293,19 @@
       ]
     },
     {
-      "id": "s-016",
+      "id": "s-021",
+      "title": "Break with Exhibitors",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "2:00 PM",
+      "startMinutes": 840,
+      "room": "131",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-022",
       "title": "From AI-Curious to AI-Capable: A Teacher’s First 30 Days with Classroom AI",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -243,7 +319,7 @@
       ]
     },
     {
-      "id": "s-017",
+      "id": "s-023",
       "title": "From Curiosity to Community: Bringing Authentic Research to Any Classroom",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -257,7 +333,7 @@
       ]
     },
     {
-      "id": "s-018",
+      "id": "s-024",
       "title": "Using Deep Discussion in the STEM Classroom",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -271,7 +347,7 @@
       ]
     },
     {
-      "id": "s-019",
+      "id": "s-025",
       "title": "Low-Cost, High-Impact Engineering Activities",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -285,7 +361,7 @@
       ]
     },
     {
-      "id": "s-020",
+      "id": "s-026",
       "title": "Every Kid, Data Ready",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -299,7 +375,7 @@
       ]
     },
     {
-      "id": "s-021",
+      "id": "s-027",
       "title": "Youth Leaders In Action: The Chief Science Officer Program",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -313,7 +389,7 @@
       ]
     },
     {
-      "id": "s-022",
+      "id": "s-028",
       "title": "Impacting Women in STEM: Creating Feedback Loops of Opportunity",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -327,7 +403,7 @@
       ]
     },
     {
-      "id": "s-023",
+      "id": "s-029",
       "title": "Designing Rural STEM Innovation: Lessons from a Rural Aerospace Laboratory School",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -341,7 +417,7 @@
       ]
     },
     {
-      "id": "s-024",
+      "id": "s-030",
       "title": "Bits, Bots & Building AI Literacy: AI for Tiny Techs",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -355,7 +431,7 @@
       ]
     },
     {
-      "id": "s-025",
+      "id": "s-031",
       "title": "Science News Learning: Boosting STEM Literacy with Science Journalism",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -370,7 +446,7 @@
       ]
     },
     {
-      "id": "s-026",
+      "id": "s-032",
       "title": "Building the Rural STEM Ecosystem through Connection, Collaboration, and Relationships",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -384,7 +460,7 @@
       ]
     },
     {
-      "id": "s-027",
+      "id": "s-033",
       "title": "Engineering and Technical Institute - A Career Exploration of Willcox and Cochise County in SE Arizona",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -392,13 +468,13 @@
       "startMinutes": 900,
       "room": "238",
       "type": "Mini Talk",
-      "description": "Sharing practices on the design of the ETI Camp that Willcox Theater and Arts hosts each year in June. Students have experiences ranging from hands-on building to field trips to a variety of STEM career sites.",
+      "description": "This session shares practices on the design of the ETI Camp that Willcox Theater and Arts hosts each year in June. Students have experiences ranging from hands-on building to field trips to a variety of STEM career sites.",
       "presenterIds": [
         "p-wesley-schofield"
       ]
     },
     {
-      "id": "s-028",
+      "id": "s-034",
       "title": "Global Lessons for Rural AI Education: Insights from a Fulbright Specialist Experience in Senegal",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -412,7 +488,7 @@
       ]
     },
     {
-      "id": "s-029",
+      "id": "s-035",
       "title": "Co-Designing Resaerch. Community Identified Risk and Resilience: Rural Disaster Preparedness",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -426,7 +502,7 @@
       ]
     },
     {
-      "id": "s-030",
+      "id": "s-036",
       "title": "Cultivating Collective Impact: School Gardens as Catalysts for Community Stewardship",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -440,7 +516,7 @@
       ]
     },
     {
-      "id": "s-031",
+      "id": "s-037",
       "title": "Magnifying Partnerships for Capacity Building",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -455,7 +531,21 @@
       ]
     },
     {
-      "id": "s-032",
+      "id": "s-038",
+      "title": "Strengthening Sustainability Through Educator Collaboration: A Working Model Connecting Teachers & Watershed Experts",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "3:30 PM",
+      "startMinutes": 930,
+      "room": "240",
+      "type": "Session",
+      "description": "Come learn about the Rural Watershed STEM Fellowship, which serves communities throughout Arizona’s central Verde River Valley. Pilot-funded by the Society for Science, the fellowship explores ways to engage and empower rural educators in STEM. A unique feature of this year-long program is its collaboration with Friends of the Verde River (FVR), an environmental nonprofit whose mission is to preserve the river and support the communities that depend on it. The fellowship is the first program to bring together FVR’s subject-matter experts and educators from across the region and has the potential to serve as a model for other groups to recreate. This presentation will highlight the practices developed through the fellowship, examine its strengths and barriers, share research-informed lessons, and explore the sustained impact of this place-based professional learning experience.",
+      "presenterIds": [
+        "p-laurie-altringer"
+      ]
+    },
+    {
+      "id": "s-039",
       "title": "Teen Science Cafe",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -470,7 +560,7 @@
       ]
     },
     {
-      "id": "s-033",
+      "id": "s-040",
       "title": "Real World Applications of End-to-End Systems Thinking",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -484,21 +574,85 @@
       ]
     },
     {
-      "id": "s-034",
+      "id": "s-041",
+      "title": "Dyad, Survey, Closing Remarks and Raffle",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "4:30 PM",
+      "startMinutes": 990,
+      "room": "Auditorium",
+      "type": "Program",
+      "description": "Join us for this facilitated networking experience, share your experience and insights, and let's wrap up an exciting day of learning and connecting with the chance to win prizes!",
+      "presenterIds": [
+        "p-kal-mannis"
+      ]
+    },
+    {
+      "id": "s-042",
+      "title": "Summit Reception",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "5:15 PM",
+      "startMinutes": 1035,
+      "room": "Café",
+      "type": "Conference Event",
+      "description": "Everyone is welcome to join in for an evening of light snacks, drinks, and networking opportunities, as well as conversation with Midwestern University students as they showcase their specialties.",
+      "presenterIds": []
+    },
+    {
+      "id": "s-043",
+      "title": "Breakfast",
+      "day": "Friday",
+      "date": "2026-09-04",
+      "time": "7:00 AM",
+      "startMinutes": 420,
+      "room": "2nd Floor Lobby",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-044",
+      "title": "Housekeeping/Welcome",
+      "day": "Friday",
+      "date": "2026-09-04",
+      "time": "8:00 AM",
+      "startMinutes": 480,
+      "room": "Auditorium",
+      "type": "Program",
+      "description": "Join the Conference Director for to start off the second day of the Learning Summit.",
+      "presenterIds": [
+        "p-kal-mannis"
+      ]
+    },
+    {
+      "id": "s-045",
       "title": "STEMM Leaders as Talent Builders: Using education expertise to transform career pathway and talent systems",
       "day": "Friday",
       "date": "2026-09-04",
-      "time": "9:00 AM",
-      "startMinutes": 540,
+      "time": "9:45 AM",
+      "startMinutes": 585,
       "room": null,
-      "type": "Keynote",
+      "type": "Session",
       "description": "Dr. Stephanie Rodriguez’s keynote positions STEMM (STEM + Medicine) learning and engagement leaders as required contributors to the talent system, and their expertise from sparking curiosity to ensuring access to foundational and authentic STEM learning as essential. She argues that STEMM leaders must understand workforce development because their programs directly influence who will be interested in, prepared for, and enter in-demand and high-quality STEMM jobs. She’ll challenge educators, ecosystem leads, community colleges and universities to “flex their education system muscles” and use familiar strengths and levers—curriculum, data, research-based pedagogy, policy, partnerships—to bridge systems and cobuild seamless pathways into STEMM opportunities in collaboration with the workforce system. On behalf of the STEMM Opportunity Alliance, she issues a broader call to action: move from isolated learning and workforce efforts to coordinated, crosssystem strategies that can smooth pathways into good STEMM careers, making opportunity more transparent and accessible for all.",
       "presenterIds": [
         "p-stephanie-rodriguez"
       ]
     },
     {
-      "id": "s-035",
+      "id": "s-046",
+      "title": "Break with Exhibitors",
+      "day": "Friday",
+      "date": "2026-09-04",
+      "time": "10:30 AM",
+      "startMinutes": 630,
+      "room": "131",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-047",
       "title": "Innovative Anatomy: Animal Skulls and Evolutionary Biology in the Classroom",
       "day": "Friday",
       "date": "2026-09-04",
@@ -512,7 +666,7 @@
       ]
     },
     {
-      "id": "s-036",
+      "id": "s-048",
       "title": "Quick and Dirty Grant Writing",
       "day": "Friday",
       "date": "2026-09-04",
@@ -520,13 +674,13 @@
       "startMinutes": 660,
       "room": "238",
       "type": "Session",
-      "description": "",
+      "description": "Writing grants can be daunting, at first. But like most techniques, a few tips go a long way to easing the process. This quick workshop-like presentation will start you on your grant writing journey.",
       "presenterIds": [
         "p-kal-mannis"
       ]
     },
     {
-      "id": "s-037",
+      "id": "s-049",
       "title": "Curious Minds: Three “What If?” Science Sandboxes Your Students Can Run on Any Chromebook",
       "day": "Friday",
       "date": "2026-09-04",
@@ -534,13 +688,13 @@
       "startMinutes": 660,
       "room": "240",
       "type": "Session",
-      "description": "STEM classrooms want inquiry-based learning, but the tools that enable it — chemistry simulators, ecosystem models, planetary-science software — usually require hardware, licenses, or IT approvals that rural districts cannot reliably get. Curious Minds is three free, browser-based “what if?” sandboxes that run on any Chromebook with no install. Mix elements and watch reactions unfold. Drop a wolf into Yellowstone with no elk and trace the cascade. Build a planet at 0.3 AU around an M-dwarf star and discover whether life could exist on it. Each sandbox combines a curated scientific knowledge base with AI reasoning, returning explanations a 7th grader can follow and a STEM teacher would trust. In this 55-minute hands-on showcase, we’ll review the platform, demo each sandbox, then turn the room over to free experimentation. You’ll leave with a working tool — and the GitHub code repository to make it your own.",
+      "description": "STEM classrooms want inquiry-based learning, but the tools that enable it — chemistry simulators, ecosystem models, planetary-science software — usually require hardware, licenses, or IT approvals that rural districts cannot reliably get. Curious Minds is three free, browser-based “what if?” sandboxes that run on any Chromebook with no install. Mix elements and watch reactions unfold. Drop a wolf into Yellowstone with no elk and trace the cascade. Build a planet at 0.3 AU around an M-dwarf star and discover whether life could exist on it. Each sandbox combines a curated scientific knowledge base with AI reasoning, returning explanations a 7th grader can follow and a STEM teacher would trust. In this 55-minute hands-on showcase, we’ll review the platform, demo each sandbox, then turn the room over to free experimentation. You’ll leave with a working tool — and the GitHub code repository to make it your own. **Bring your own laptop to play in the sandbox!",
       "presenterIds": [
         "p-isac-artzi"
       ]
     },
     {
-      "id": "s-038",
+      "id": "s-050",
       "title": "Connecting STEM to Local Trades",
       "day": "Friday",
       "date": "2026-09-04",
@@ -554,7 +708,7 @@
       ]
     },
     {
-      "id": "s-039",
+      "id": "s-051",
       "title": "Panel - Funder Roundtable: A view from the Funder's Perspective",
       "day": "Friday",
       "date": "2026-09-04",
@@ -566,7 +720,19 @@
       "presenterIds": []
     },
     {
-      "id": "s-040",
+      "id": "s-052",
+      "title": "Lunch with Table Talk",
+      "day": "Friday",
+      "date": "2026-09-04",
+      "time": "12:00 PM",
+      "startMinutes": 720,
+      "room": "2nd Floor Lobby",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-053",
       "title": "When \"Group Think\" is Good Thinking",
       "day": "Friday",
       "date": "2026-09-04",
@@ -581,7 +747,7 @@
       ]
     },
     {
-      "id": "s-041",
+      "id": "s-054",
       "title": "Worlds of Work in Action: Designing Career Exploration that Sticks",
       "day": "Friday",
       "date": "2026-09-04",
@@ -595,7 +761,7 @@
       ]
     },
     {
-      "id": "s-042",
+      "id": "s-055",
       "title": "You Don’t Know If You Don’t Try! Building Rural STEM Opportunities Through Grants and Partnerships",
       "day": "Friday",
       "date": "2026-09-04",
@@ -609,7 +775,7 @@
       ]
     },
     {
-      "id": "s-043",
+      "id": "s-056",
       "title": "All for STEAM! Strategies and activities for creating creating neurodiversity-affirming",
       "day": "Friday",
       "date": "2026-09-04",
@@ -624,7 +790,19 @@
       ]
     },
     {
-      "id": "s-044",
+      "id": "s-057",
+      "title": "Break with Exhibitors",
+      "day": "Friday",
+      "date": "2026-09-04",
+      "time": "2:00 PM",
+      "startMinutes": 840,
+      "room": "131",
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-058",
       "title": "Globe at Night and STEM Resources with NOIR Labs",
       "day": "Friday",
       "date": "2026-09-04",
@@ -638,7 +816,7 @@
       ]
     },
     {
-      "id": "s-045",
+      "id": "s-059",
       "title": "Creating Life-long Learners and Successful Healthcare Providers: A Model for Teaching Critical Thinking",
       "day": "Friday",
       "date": "2026-09-04",
@@ -652,7 +830,7 @@
       ]
     },
     {
-      "id": "s-046",
+      "id": "s-060",
       "title": "Growing Our Own: How AZTRAP Builds Rural Educator Pipelines",
       "day": "Friday",
       "date": "2026-09-04",
@@ -667,7 +845,7 @@
       ]
     },
     {
-      "id": "s-047",
+      "id": "s-061",
       "title": "Building Rural Computer Science Pathways: A Scalable Ecosystem for Teacher Professional Development and Classroom Integration",
       "day": "Friday",
       "date": "2026-09-04",
@@ -682,7 +860,19 @@
       ]
     },
     {
-      "id": "s-048",
+      "id": "s-062",
+      "title": "Break",
+      "day": "Friday",
+      "date": "2026-09-04",
+      "time": "3:30 PM",
+      "startMinutes": 930,
+      "room": null,
+      "type": "Conference Event",
+      "description": "",
+      "presenterIds": []
+    },
+    {
+      "id": "s-063",
       "title": "Leveraging Civil Air Patrol STEM programs to support student engagement with real world workforce",
       "day": "Friday",
       "date": "2026-09-04",
@@ -696,7 +886,7 @@
       ]
     },
     {
-      "id": "s-049",
+      "id": "s-064",
       "title": "Healthcare STEM Careers and Middle School Curriculum",
       "day": "Friday",
       "date": "2026-09-04",
@@ -711,7 +901,7 @@
       ]
     },
     {
-      "id": "s-050",
+      "id": "s-065",
       "title": "Real Data, Real Impact: How Rural Students Can Map, Protect, and Save Arizona’s Streams",
       "day": "Friday",
       "date": "2026-09-04",
@@ -725,7 +915,7 @@
       ]
     },
     {
-      "id": "s-051",
+      "id": "s-066",
       "title": "FarmBeats For MiddleSchool",
       "day": "Friday",
       "date": "2026-09-04",
@@ -738,6 +928,20 @@
         "p-desiree-clark",
         "p-diane-ryan"
       ]
+    },
+    {
+      "id": "s-067",
+      "title": "Survey, Closing Remarks and Raffle",
+      "day": "Friday",
+      "date": "2026-09-04",
+      "time": "4:45 PM",
+      "startMinutes": 1005,
+      "room": "Auditorium",
+      "type": "Program",
+      "description": "Join us as we wrap up this year's experience. Share your insights on what worked, what didn't, and how we can continue growing and expanding opportunities. Bring your ticket for a chance to win prizes!",
+      "presenterIds": [
+        "p-kal-mannis"
+      ]
     }
   ],
   "presenters": [
@@ -746,6 +950,12 @@
       "name": "Alison Smith",
       "bio": "Alyson Smith is the Senior Vice President of Engagement at Arizona Science Center. In this role she leads educational innovation and hands on engagement opportunities through management of the science center’s Learning teams. Alyson previously served in several learning and engagement roles at Arizona Science Center including as a STEM instructor, the Director of Youth Programs, and as Vice President of Informal Learning. Alyson started her career as an elementary school teacher through Teach for America. Alyson received a BA in Psychology and Sociology from Emory University and a Master's in Elementary Education from Arizona State University. She is proud to be an advocate for STEM education across the state of Arizona.",
       "headshot": "https://lh3.googleusercontent.com/d/1xCnTmpMPNjNfqJxu6zYtA532-767NJjw=w640"
+    },
+    {
+      "id": "p-amanda-whitehurst",
+      "name": "Amanda Whitehurst",
+      "bio": "Amanda serves as the convergence Lead/Co-PI for the Arizona STEM Acceleration Project (ASAP), and has been part of the administrative team since its inaugural year. Her focus is on empowering teachers and supporting STEM in Arizona so that students from across the state have enriched strong STEM experiences. A former teacher, she brings insights from the classroom to create better experiences for teachers seeking enrichment opportunities and a network to support their classrooms.",
+      "headshot": "https://lh3.googleusercontent.com/d/1HQlPfRuziySoZshLsgbV3Spu26SdzCJA=w640"
     },
     {
       "id": "p-anna-pawlow",
@@ -769,7 +979,7 @@
       "id": "p-ashton-grove",
       "name": "Ashton Grove",
       "bio": "Learn how the Chief Science Officers program can be leveraged in your community to build youth leadership skills and support workforce development. Chief Science Officers are students in grades 6-12 who are passionate about STEM education and student voice. They act as STEM ambassadors while building their networks, preparing for their future career, and improving their confidence as leaders. CSO is a program of the SciTech Institute. Through this session, you'll get a taste of the program experience while learning how to start a CSO cohort in your school, district, or town.",
-      "headshot": null
+      "headshot": "https://lh3.googleusercontent.com/d/13uV-1519r52eAilYD5iR-gX7RSmurVJN=w640"
     },
     {
       "id": "p-bethany-ligon",
@@ -798,7 +1008,7 @@
     {
       "id": "p-cori-araza",
       "name": "Cori Araza",
-      "bio": "",
+      "bio": "Dr. Cori Araza has spent over twenty years doing what she loves most — connecting higher education to K–12 to open doors for students and teachers alike. As Executive Director of K–12 Services and Solutions at Grand Canyon University, she leads the STEM Leadership Cadre, building STEM pipelines with the Engineering, Technology, and Natural Sciences colleges at GCU and beyond. She is a recognized speaker and influencer in K-12 STEM programming, bringing research-backed teaching strategies to educators at all levels. Her doctoral work focused on technology as a tool for deeper learning.",
       "headshot": "https://lh3.googleusercontent.com/d/1JiCRVjcsB5P236tUOP8hLDdQndwfQkkS=w640"
     },
     {
@@ -906,8 +1116,8 @@
     {
       "id": "p-kal-mannis",
       "name": "Kal Mannis",
-      "bio": "",
-      "headshot": null
+      "bio": "Kalman Mannis brings over two decades of expertise in STEM education, rural community engagement, and ecosystem development. Currently serving as Senior Director for Rural Engagement at the Arizona Science Center, he has led multiple initiatives bridging computer science education, NASA programs, and community partnerships across Arizona&#39;s diverse regions. As Co-I and Project Manager for Computer Science for All, the National Rural STEM Learning Summit, and Senior Contributor to NASA&#39;s Broadening Participation with STEM Ecosystems, Kalman has facilitated strategic initiatives with K-12 districts and community organizations, developed professional learning communities, and coached implementation teams. His work with the Rural Activation and Innovation Network (RAIN) has stimulated a statewide collaborative mindset focusing on STEM awareness assets and needs in rural Arizona. With a BSc in Molecular Biology and Physics from Vanderbilt University and an MEd from the University of Phoenix, Kalman&#39;s career spans classroom teaching, instructional coaching, administration, and program leadership. He has served on numerous advisory boards and been a Fellow with DoD STEM, SLECoP’s STEM NEXT, ASU/ULRI Sustainability Education, and Project CENTRL – Center for Rural Leadership. Boards include Arizona First Things First, White Mountain Nature Center, Friends of the Verde River, and Professionals and Educators Across Cochise (PEAC). Kalman&#39;s collaborative approach connects educators, researchers, and community stakeholders to create sustainable, place-based STEM learning opportunities across generations and locations.",
+      "headshot": "https://lh3.googleusercontent.com/d/1jEVzgQRp_-XIzRz-UX92n_fbKumVe68O=w640"
     },
     {
       "id": "p-kathia-antillon",
@@ -918,7 +1128,7 @@
     {
       "id": "p-katie-dion",
       "name": "Katie Dion",
-      "bio": "",
+      "bio": "Driven by a lifelong love of marine biology and scuba diving, I’ve built a career creating hands-on STEM experiences that inspire curiosity and leadership in youth. As the Program Associate for the Teen Science Café Network, a program of STEM Next, I’ve helped launch 100+ programs nationwide, and developed the flagship Teen Catalyst program, mentoring 75+ teens in communication, event coordination, and professional career skills. I also have previous experience in managing a Noyce NSF grant supporting the development of culturally responsive STEM teachers, have designed hands-on curriculum spanning all ages and programs that connect students to real-world marine and environmental science, am a former Coordinator for a summer STEM camp serving over 100 children weekly ages 4-18, and a former aquarist overseeing the care of tropical marine species at the John. G. Shedd Aquarium. Overall, I’m passionate about empowering the next generation of innovators to explore, lead, and thrive in STEM.",
       "headshot": "https://lh3.googleusercontent.com/d/1eQTAx7cTX0MSnwVsDpuCnVne71rxvBqJ=w640"
     },
     {
@@ -932,6 +1142,12 @@
       "name": "Kitty Roberts",
       "bio": "",
       "headshot": "https://lh3.googleusercontent.com/d/1B8r_yaUS_hAqQOMbM2deAydLOScvB35z=w640"
+    },
+    {
+      "id": "p-laurie-altringer",
+      "name": "Laurie Altringer",
+      "bio": "Laurie Altringer is the founder and director of the Science Vortex of the Verde Valley. Her experiences as an educator, community program developer and grant writer have led me to pursue my dream of opening a high-quality, engaging and hands-on science, technology, engineering, art, and mathematics (STEAM) center that will provide children creative STEAM learning opportunities that positively influence their critical thinking abilities while having fun! She has a Bachelor's in Science in Elementary Education (K-8) from Northern Arizona University, a Master's in Education in Environmental Education (with field studies focused on the Colorado Plateau) from Huxley College at Western Washington University, and a certificate in Leadership and Environmental Ethics from National Outdoor Leadership School (NOLS). She has been a certified K-8 teacher for 23 years.",
+      "headshot": "https://lh3.googleusercontent.com/d/1W7dbvkTErv5CnLa_lxFNhvondCAc9koL=w640"
     },
     {
       "id": "p-leslie-bell",
@@ -1032,7 +1248,7 @@
     {
       "id": "p-sheila-james",
       "name": "Sheila James",
-      "bio": "",
+      "bio": "Sheila is a transformative leader with over 25 years of experience in youth development, known for elevating the quality of programs that serve children and youth. Her expertise in coaching, training, and mentoring equips educators and program staff with innovative strategies and practical tools. With a keen eye on trends in afterschool and early childhood education, Sheila stays ahead of the curve to ensure excellence in the field. Her dedication to equity and empowering others has been the cornerstone of her impactful and purpose-driven leadership.",
       "headshot": "https://lh3.googleusercontent.com/d/1W6ZhoxBlCHYzazaN6c6X5Rq59BhfebWK=w640"
     },
     {
@@ -1074,7 +1290,7 @@
     {
       "id": "p-wesley-schofield",
       "name": "Wesley Schofield",
-      "bio": "",
+      "bio": "Wesley has been creating video content for 10+ years. Born and raised in Willcox, Arizona, he spent his life learning to create graphics, videos, and audio content. Wesley is a passionate creative with a desire to teach others. In 2018 Wesley entered the professional world of videography, producing hundreds of videos from advertisements, music videos, an award winning documentary, and tutorials spanning both the fine arts and digital arts worlds. Community and economic development has been a driving force in Wesley’s life. Belonging to his hometown’s Skatepark Committee and Downtown Revitalization Project, he cares deeply about the communities he is a part of.",
       "headshot": "https://lh3.googleusercontent.com/d/1ApE9qZNJDeOtGTkyctZzMN85m-_RJ2vz=w640"
     },
     {

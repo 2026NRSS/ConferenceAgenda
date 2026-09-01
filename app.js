@@ -256,4 +256,12 @@ async function init() {
   }
 }
 
+
+function safeImage(src, alt, className = "") {
+  if (!src) return `<div class="${className} logo-fallback">${escapeHtml(alt || "")}</div>`;
+  return `<img src="${escapeHtml(src)}" alt="${escapeHtml(alt || "")}" class="${className}" loading="lazy"
+    onerror="this.onerror=null;this.style.display='none';this.nextElementSibling.style.display='flex';">
+    <div class="${className} logo-fallback" style="display:none;">${escapeHtml(alt || "")}</div>`;
+}
+
 document.addEventListener('DOMContentLoaded', init);

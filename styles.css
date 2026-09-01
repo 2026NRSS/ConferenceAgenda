@@ -246,3 +246,21 @@ h1,h2,h3,p { text-wrap: pretty; }
   .presenter-detail-header { align-items: flex-start; }
   .presenter-detail-header .presenter-photo, .presenter-detail-header .presenter-initials { width: 82px; height: 82px; flex-basis: 82px; border-radius: 19px; }
 }
+
+
+.host-logo {
+  display: block;
+  width: min(100%, 360px);
+  max-height: 120px;
+  height: auto;
+  object-fit: contain;
+  margin: 0 auto;
+}
+.logo-fallback {
+  align-items: center;
+  justify-content: center;
+  min-height: 72px;
+  padding: 12px;
+  text-align: center;
+  font-weight: 700;
+}
