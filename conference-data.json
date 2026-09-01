@@ -370,9 +370,7 @@
       "room": null,
       "type": "Mini Talk",
       "description": "This interactive mini talk demonstrates how students can build data literacy through hands-on, real-world investigations. Participants will experience a model lesson where students collect, analyze, and interpret data to explore community questions. The session highlights student-driven inquiry, collaboration, and data storytelling while showing how place-based learning increases engagement, critical thinking, and accessibility—especially in rural settings. Attendees will leave with practical strategies, ready-to-use resources, and ideas for fostering confident, data-literate learners.",
-      "presenterIds": [
-        "p-marissa-tualla"
-      ]
+      "presenterIds": []
     },
     {
       "id": "s-027",
@@ -1160,12 +1158,6 @@
       "name": "Lisa Lewis",
       "bio": "Lisa Lewis has dedicated more than 24 years to the library profession starting her career in a small K-12 school in rural Arizona. She is currently serving as the Library Manager for the Town of Florence since August of 2022. Prior to moving to Florence, she was the library manager for the City of Show Low. A strong advocate for rural and small libraries, Lisa has served as president of both the National Association for Rural and Small Libraries and the Arizona Library Association. Her commitment to libraries and community engagement has extended internationally, including an invitation from the U.S. Embassy to deliver a series of literacy and community engagement workshops to Croatian librarians. Throughout her career, Lisa has championed the vital role libraries play in building stronger, more connected rural communities.",
       "headshot": "https://lh3.googleusercontent.com/d/1ABrEBPwsgDk9uUiaJ-CHsbM4MtjXS6dE=w640"
-    },
-    {
-      "id": "p-marissa-tualla",
-      "name": "Marissa Tualla",
-      "bio": "",
-      "headshot": null
     },
     {
       "id": "p-megan-lasley",
