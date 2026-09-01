@@ -6,7 +6,8 @@
     "address": "19555 N 59th Ave, Glendale, AZ 85308",
     "timezone": "America/Phoenix",
     "publicWebsite": "https://azruralstemsummit.net/",
-    "mapAsset": "assets/campus-map.png"
+    "mapAsset": "assets/campus-map.png",
+    "logo": "assets/nrss-logo.png"
   },
   "sessions": [
     {
@@ -30,7 +31,7 @@
       "date": "2026-09-03",
       "time": "9:30 AM",
       "startMinutes": 570,
-      "room": "5",
+      "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
       "description": "This session will give participants a shared understanding of learning and workforce systems and their attributes. It will explore important features, levers, and change agents across PK-12, Postsecondary, and Workforce systems, leaving participants with a holistic frame of reference for thinking about their local STEMM talent ecosystem. Participants can use this frame to understand the cross-system dynamics at play at a national level, and will reflect on implications in their communities, such as: 1. Identifying fragmentation points between education, workforce, and postsecondary in their own region. 2. Committing to one concrete next step for applying the shared vocabulary and levers in an upcoming meeting, project, or planning effort.",
       "presenterIds": [
@@ -79,7 +80,8 @@
       "type": "Session",
       "description": "Discover a network of environmental educators, natural resource professionals, and shared resources that support K–12 schools through meaningful partnerships and place-based learning. This session highlights Project Learning Tree and Fire Ecology Learning Lab resources, which make complex forest and environmental topics accessible through age-appropriate, classroom-ready lessons. Participants will explore how environmental education strengthens STEM learning by fostering critical thinking, informed decision-making, and an appreciation for diverse perspectives on environmental issues.",
       "presenterIds": [
-        "p-megan-lasley-timara-crichlow"
+        "p-megan-lasley",
+        "p-timara-crichlow"
       ]
     },
     {
@@ -117,7 +119,7 @@
       "date": "2026-09-03",
       "time": "11:00 AM",
       "startMinutes": 660,
-      "room": "5",
+      "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
       "description": "Building on Session 1, this session will deepen the exploration of systems’ attributes, with a focus on getting local and specific. Participants will explore a lever or occupational priority that matters in their community and consider how they could leverage end-to-end systems insights to strengthen their approaches and impact. Participants can use time in this session to: 1. Map existing programs, initiatives, or partnerships in their community across the end-to-end frame of reference introduced in the session. 2. Explore how NAICS, SOC, and CIP codes can be used together as neutral building blocks for mapping STEMM learning to career pathways. 3. Prioritize two to three regional “levers” that could strengthen crosssector STEMM conversations.",
       "presenterIds": [
@@ -135,7 +137,8 @@
       "type": "Session",
       "description": "Arizona Science Center in partnership with SEMI Foundation worked with local semiconductor companies to co-create an exhibition, lead teacher PD, and plan student programming. Get a glimpse into the co-creation process and learnings on how Arizona Science Center took the onsite exhibition and turn it into an outreach program for rural communities.",
       "presenterIds": [
-        "p-alison-smith-vanessa-gutierrez"
+        "p-alison-smith",
+        "p-vanessa-gutierrez"
       ]
     },
     {
@@ -173,7 +176,7 @@
       "date": "2026-09-03",
       "time": "1:00 PM",
       "startMinutes": 780,
-      "room": "5",
+      "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
       "description": "You're already a Field Catalyst. You just need the system to match your energy. In this hands-on workshop, rural STEM providers and educators will discover how to stop operating in isolation and start building the connected, community-wide ecosystem your students deserve. We will explore what a STEM learning ecosystem actually looks like in a rural context, dig into national data trends hitting rural communities right now, and uncover practical strategies you can start using Monday morning. You do not need a big city budget. You need the right connections, a shared vision, and a community that is ready to grow together. We will help you map what you already have, identify the gaps, and take your first real steps toward building something bigger than any one program can do alone. Rural is not a limitation. It is your greatest asset.",
       "presenterIds": [
@@ -206,7 +209,8 @@
       "type": "Session",
       "description": "In this activity, participants analyze drilled core samples to model a hypothetical ore body beneath Earth’s surface. They then design a mine that maximizes copper extraction while minimizing environmental impact. The lesson explores relationships between area, volume, density, mass, and concentration to evaluate the value of unseen mineral resources and compare it to extraction costs. Participants will consider real-world mining decision-making factors. The activity can be scaled for grades 6–12, from basic algebra through calculus.",
       "presenterIds": [
-        "p-dan-moreno-chris-earnest"
+        "p-dan-moreno",
+        "p-chris-earnest"
       ]
     },
     {
@@ -249,7 +253,8 @@
       "type": "Session",
       "description": "This workshop introduces SciTech’s skills map framework as a practical tool for aligning education, workforce, and industry needs. Participants will explore how to translate broad career pathways into discrete, measurable skills that inform curriculum, advising, and regional workforce strategies. Attendees will leave with a clearer understanding of how to operationalize skills data for real-world impact.",
       "presenterIds": [
-        "p-tom-wilson-yvonda-shelton"
+        "p-tom-wilson",
+        "p-yvonda-shelton"
       ]
     },
     {
@@ -259,7 +264,7 @@
       "date": "2026-09-03",
       "time": "2:30 PM",
       "startMinutes": 870,
-      "room": "5",
+      "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
       "description": "This workshop focuses on identifying leverage points that turn STEM network efforts into observable, measurable outcomes. Participants will examine how to move beyond activity tracking toward meaningful indicators of progress, such as skill attainment, career exposure, and partnership effectiveness. The session will provide practical tools for aligning initiatives with data-driven impact and continuous improvement.",
       "presenterIds": [
@@ -273,7 +278,7 @@
       "date": "2026-09-03",
       "time": "2:30 PM",
       "startMinutes": 870,
-      "room": "5",
+      "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
       "description": "Learn how the Chief Science Officers program can be leveraged in your community to build youth leadership skills and support workforce development. Chief Science Officers are students in grades 6-12 who are passionate about STEM education and student voice. They act as STEM ambassadors while building their networks, preparing for their future career, and improving their confidence as leaders. CSO is a program of the SciTech Institute. Through this session, you'll get a taste of the program experience while learning how to start a CSO cohort in your school, district, or town.",
       "presenterIds": [
@@ -403,7 +408,8 @@
       "type": "Mini Talk",
       "description": "Intrigued about incorporating current examples in research and the latest applications in STEM into your science activities to increase STEM literacy? Come to this session to discuss science literacy and it's importance, and explore current journalism resources that can be used to enhance STEM learning and literacy through the Science News Learning program. Discover the large libraries of Science News Media Group journalism and lesson plans that connect these real-world issues to core curricula.",
       "presenterIds": [
-        "p-anna-pawlow-raina-van-duym"
+        "p-anna-pawlow",
+        "p-raina-van-duym"
       ]
     },
     {
@@ -469,7 +475,7 @@
       "date": "2026-09-03",
       "time": "3:30 PM",
       "startMinutes": 930,
-      "room": "5",
+      "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
       "description": "Join this session to explore examples of how end-to-end systems thinking is being applied in real communities. Featuring examples from SciTech Institute and TIES, this session will leave participants inspired to turn understanding into action in their communities. Participants will reflect on: 1. A personal or organizational story demonstrating how a specific lever enabled or limited pathway implementation. 2. Levers to prioritize for activation in the next 6–12 months and articulate one concrete action step for each.",
       "presenterIds": [
@@ -516,7 +522,8 @@
       "type": "Session",
       "description": "This interactive session introduces the Teen Science Café (TSC) model and explores how it expands STEM access and career exposure for rural youth. Participants will learn how TSC connects teens with STEM professionals through youth-led events that build leadership, communication, and career readiness skills. The session highlights benefits of joining a national network of educators and professionals, including training and ongoing support. Presenters will share strategies for adapting the model for rural communities, and the session concludes with a hands-on marine science activity simulating a Teen Science Café experience.",
       "presenterIds": [
-        "p-sheila-james-katie-dion"
+        "p-sheila-james",
+        "p-katie-dion"
       ]
     },
     {
@@ -655,7 +662,8 @@
       "type": "Session",
       "description": "This session explores inclusive, hands-on strategies to support neurodiverse learners in STEAM classrooms, grounded in a multi-year NSF research project. Participants will apply Universal Design for Learning (UDL) principles to ensure accessibility for students with autism, ADHD, dyslexia, and other cognitive profiles. The session moves beyond one-size-fits-all instruction by offering varied entry points, sensory-friendly tools, and adaptive technologies. Attendees will learn to build flexible learning environments and leave with a practical guidebook and actionable strategies to increase access and confidence for all learners.",
       "presenterIds": [
-        "p-tara-henderson-nicole-lasky-garcia"
+        "p-tara-henderson",
+        "p-nicole-r-lasky-garcia"
       ]
     },
     {
@@ -697,7 +705,8 @@
       "type": "Session",
       "description": "Rural communities face persistent challenges in recruiting and retaining qualified educators. Arizona’s Registered Teacher Apprenticeship Program (AZTRAP) offers a scalable “grow-your-own” model that aligns workforce development with teacher preparation. This session explores how a federally registered apprenticeship supports aspiring educators in rural and high-need areas through paid, mentored, classroom-based training paired with an educator preparation program. Participants will learn how agencies collaborate to reduce financial barriers, strengthen local pipelines, and improve retention, while gaining design insights, early lessons learned, and practical tools for replicating apprenticeship pathways in their own communities.",
       "presenterIds": [
-        "p-grant-lapinski-ryan-salcido"
+        "p-grant-lapinski",
+        "p-ryan-salcido"
       ]
     },
     {
@@ -711,7 +720,8 @@
       "type": "Session",
       "description": "This breakout session presents a pipeline ecosystem designed to expand computer science (CS) education in rural communities. It builds teacher capacity through two pathways: a certification track supporting educators in earning CS credentials and teaching courses, and an entry-level track introducing foundational CS and computational thinking through local training. Together, they create multiple entry points for students and strengthen regional expertise. The session includes an AI-enhanced, hands-on activity using the Microsoft FarmBeats curriculum, connecting CS to agriculture and rural contexts, along with key design lessons for scalable, community-centered adoption.",
       "presenterIds": [
-        "p-sheryl-roehl-zhuoying-wang"
+        "p-sheryl-roehl",
+        "p-zhuoying-wang"
       ]
     },
     {
@@ -775,14 +785,14 @@
   ],
   "presenters": [
     {
-      "id": "p-alison-smith-vanessa-gutierrez",
-      "name": "Alison Smith & Vanessa Gutierrez",
+      "id": "p-alison-smith",
+      "name": "Alison Smith",
       "bio": "Alyson Smith is the Senior Vice President of Engagement at Arizona Science Center. In this role she leads educational innovation and hands on engagement opportunities through management of the science center’s Learning teams. Alyson previously served in several learning and engagement roles at Arizona Science Center including as a STEM instructor, the Director of Youth Programs, and as Vice President of Informal Learning. Alyson started her career as an elementary school teacher through Teach for America. Alyson received a BA in Psychology and Sociology from Emory University and a Master's in Elementary Education from Arizona State University. She is proud to be an advocate for STEM education across the state of Arizona.",
       "headshot": "https://lh3.googleusercontent.com/d/1xCnTmpMPNjNfqJxu6zYtA532-767NJjw=w640"
     },
     {
-      "id": "p-anna-pawlow-raina-van-duym",
-      "name": "Anna Pawlow & Raina van Duym",
+      "id": "p-anna-pawlow",
+      "name": "Anna Pawlow",
       "bio": "Anna Pawlow is a STEM education leader with nearly two decades of experience designing curriculum, building educator communities, and leading national programs that expand access to high-quality science research and learning. As Director of STEM Education Outreach at Society for Science, she oversees a portfolio of national and regional outreach programs that support educators, students, and communities nationwide. These programs help educators create and expand authentic student research opportunities while using STEM journalism to strengthen science literacy and connect students to real-world discovery. Previously, Anna served as Director of STEM Literacy and Curriculum, leading Science News Learning. Before joining Society for Science, she spent 10 years as a high school science teacher in Washington, DC, where she developed inquiry-based curriculum and supported students through teaching, advising, mentoring, and leadership programs. Anna holds a Master of Chemical and Life Sciences from the University of Maryland and a Bachelor of Science in Chemistry from the College of William & Mary.",
       "headshot": "https://lh3.googleusercontent.com/d/1wpgn16yOQx14CbndM7X5Rb94fsclZQuV=w640"
     },
@@ -817,6 +827,12 @@
       "headshot": null
     },
     {
+      "id": "p-chris-earnest",
+      "name": "Chris Earnest",
+      "bio": "",
+      "headshot": null
+    },
+    {
       "id": "p-christelle-scharff",
       "name": "Christelle Scharff",
       "bio": "Dr. Christelle Scharff is a Professor of Computer Science, Associate Dean, and Co-Director of the AI Lab at Pace University in New York City. She holds a Ph.D. in Symbolic Artificial Intelligence (Theorem Proving and Automated Deduction) from INRIA, the French National Institute for Research in Digital Science and Technology. Her research focuses on global software engineering, mobile technology and machine learning, and she has published more than 40 peer-reviewed papers in these areas. She has received research and educational grants from the NSF, IBM, Microsoft, VentureWell, and Google. Dr. Scharff is both a U.S. Fulbright Scholar and a U.S. Fulbright Specialist, having conducted projects in Senegal.",
@@ -835,8 +851,8 @@
       "headshot": "https://lh3.googleusercontent.com/d/1LSHt-hQFG0qG7MC65egpgsgKIjYbK2Se=w640"
     },
     {
-      "id": "p-dan-moreno-chris-earnest",
-      "name": "Dan Moreno & Chris Earnest",
+      "id": "p-dan-moreno",
+      "name": "Dan Moreno",
       "bio": "After serving as a high school science teacher in rural WI for 16 years, Dan moved to Tucson and the University of Arizona to pursue a PhD in science teaching and teacher education. As part of his graduate studies, he connected with the School of Mining Engineering & Mineral Resources in the University's College of Engineering to design curriculum and teacher professional learning opportunities. Since then, Dan has traveled the country facilitating workshops on mineral resource and mining education for teachers, as well as classroom lessons, demonstrations, and exhibitions at school and community STEAM events, college fairs, and career days.",
       "headshot": null
     },
@@ -871,8 +887,8 @@
       "headshot": "https://lh3.googleusercontent.com/d/1GgVabZ3TfU1wVjfqlPfnFe_gUncgZbTK=w640"
     },
     {
-      "id": "p-grant-lapinski-ryan-salcido",
-      "name": "Grant Lapinski & Ryan Salcido",
+      "id": "p-grant-lapinski",
+      "name": "Grant Lapinski",
       "bio": "Grant Lapinski is an Apprenticeship Specialist and Education Program Specialist at the Arizona Department of Education, where he supports the development and implementation of the Arizona Teacher Registered Apprenticeship Program. With five years of experience in Arizona’s K–12 system and previous experience teaching English in Japan, Grant brings both local insight and global perspective to expanding high-quality educator pathways. His work focuses on building sustainable apprenticeship models that strengthen teacher preparation and workforce development statewide. Grant’s international teaching experience and extensive travel inform his commitment to cultural understanding and learner-centered practices. He holds a Master of Education and a B.A. in History from the University of Arizona.",
       "headshot": "https://lh3.googleusercontent.com/d/1s0javY-Jgv3rUGuLwe6T6MUK8qHGCFgE=w640"
     },
@@ -943,6 +959,12 @@
       "headshot": "https://lh3.googleusercontent.com/d/1NYXvAqVviTQKzMfduT8JpmwubmRoz4nd=w640"
     },
     {
+      "id": "p-katie-dion",
+      "name": "Katie Dion",
+      "bio": "",
+      "headshot": null
+    },
+    {
       "id": "p-kelsie-murphy",
       "name": "Kelsie Murphy",
       "bio": "Kelsie Murphy is the Education Development Specialist for the Smithsonian STARS program, a nationwide initiative bringing astronomy education to rural schools across the United States. She holds a Bachelor's degree in Elementary and Special Education from Northern Arizona University and Master’s in Natural Science and Environmental Education from Hamline University. Before joining STARS, Kelsie worked in public education for 7 years as both an elementary school teacher and as the director for a local STEM center in Central and Northern Arizona. She is passionate about increasing access to quality STEM education to all students and contributes to this mission through her work with STARS.",
@@ -973,8 +995,8 @@
       "headshot": null
     },
     {
-      "id": "p-megan-lasley-timara-crichlow",
-      "name": "Megan Lasley & Timara Crichlow",
+      "id": "p-megan-lasley",
+      "name": "Megan Lasley",
       "bio": "Megan Lasley is the Forestry Outreach Coordinator at the Arizona Department of Forestry and Fire Management (AZ DFFM). Her work supports the Specialized Forestry Programs and agency by sharing information and engaging the public, partners, and others in DFFM programs. Megan develops informational materials, hosts and participates in events, and is the editor of the Arizona Forestry in Focus e-newsletter. She sits on multiple working groups and committees to support outreach efforts on various forestry topics, and is a facilitor of Project Learning Tree in Arizona.",
       "headshot": "https://lh3.googleusercontent.com/d/1GTmKY1ggadRZYsEjwV21ZJ1fGKfzS1ne=w640"
     },
@@ -997,6 +1019,12 @@
       "headshot": "https://lh3.googleusercontent.com/d/1iPKmlYmSzk97sjXrhL-g3eKcUQ7gWtw7=w640"
     },
     {
+      "id": "p-nicole-r-lasky-garcia",
+      "name": "Nicole R Lasky Garcia",
+      "bio": "Nicole Lasky Garcia is School & Community Programs Manager at Explora Science Center and Children’s Museum in Albuquerque, New Mexico. Her work at Explora focuses on working with educators and the community to bring hands-on inquiry based learning to classrooms across New Mexico. Her work also includes working with colleagues to develop and facilitate curriculum for programming as well as teacher professional developments workshops. Ms. Lasky Garcia holds a graduate degree in secondary education and undergraduate degree in biology.",
+      "headshot": "https://lh3.googleusercontent.com/d/1gqekPsTl90InH1sUZF2FLq5lH8vV4CwX=w640"
+    },
+    {
       "id": "p-rachael-white",
       "name": "Rachael White",
       "bio": "Dr. Rachel S. White is an experienced educator, researcher, and leader specializing in STEM and aerospace education. Rachel S. White is the director of the Aerospace Academy of the Eastern Shore of VA which is a Virginia College Partnership Lab School through Old Dominion University.",
@@ -1007,6 +1035,12 @@
       "name": "Rae Mask",
       "bio": "Rae Mask is an instructional coach turned IT Supervisor who never stopped thinking like a teacher. With 13+ years in education and a specialty in making technology feel less intimidating and more irresistible, she leads district-wide tech integration for the Balsz School District.",
       "headshot": "https://lh3.googleusercontent.com/d/1FyVU6ozlKnHtd1NvW76p2A5IwKTuNjS5=w640"
+    },
+    {
+      "id": "p-raina-van-duym",
+      "name": "Raina van Duym",
+      "bio": "",
+      "headshot": null
     },
     {
       "id": "p-rob-sparks",
@@ -1021,6 +1055,12 @@
       "headshot": null
     },
     {
+      "id": "p-ryan-salcido",
+      "name": "Ryan Salcido",
+      "bio": "Ryan Salcido is an Apprenticeship Specialist and Education Program Specialist with the Arizona Department of Education, where he supports the expansion and implementation of the Arizona Teacher Registered Apprenticeship Program. A former band director with 12 years of experience in Arizona public schools, Ryan brings deep expertise in program design, assessment systems, and student-centered instruction. His background includes leading instrumental music programs across multiple districts, developing assessment frameworks, managing budgets, and coordinating district and state festivals—consistently earning “Superior” performance ratings. Ryan applies this instructional and operational experience to strengthen educator preparation pathways, streamline reporting systems, and support schools in adopting high-quality apprenticeship models. He holds a Bachelor of Science in Music Education from Arizona State University.",
+      "headshot": "https://lh3.googleusercontent.com/d/1C7DuM2GwtPHzgGjkmLJnAaW8ILKXLmCa=w640"
+    },
+    {
       "id": "p-sean-ryan",
       "name": "Sean Ryan",
       "bio": "Sean Ryan, M.S., is a Research Associate, and holds a Master of Science in Biochemistry from the University of Arizona. He taught nine years in the classroom as a certified K-8 educator. He works at the Center for Science Teaching and Learning at Northern Arizona University. His expertise includes STEM community education and outreach, design of professional development activities and resources, program implementation, and partnership development.",
@@ -1033,14 +1073,14 @@
       "headshot": null
     },
     {
-      "id": "p-sheila-james-katie-dion",
-      "name": "Sheila James & Katie Dion",
+      "id": "p-sheila-james",
+      "name": "Sheila James",
       "bio": "",
       "headshot": null
     },
     {
-      "id": "p-sheryl-roehl-zhuoying-wang",
-      "name": "Sheryl Roehl & Zhuoying Wang",
+      "id": "p-sheryl-roehl",
+      "name": "Sheryl Roehl",
       "bio": "Dr. Roehl is part of the Texas Advanced Computing Center EPIC (Expanding Pathways in Computing) WeTeach_CS team. She serves as the EPIC Partnership Coordinator. She has worked with school districts to develop and implement K-12 Computer Science Pathways. She works with WeTeach_CS to provide training in Computational Thinking, Scratch, Foundations of Computer Science for Teachers, Experience CS, Rural Opportunities in Computer Science, CS Jumpstart, Code.org Fundamentals and Discoveries, Artificial Intelligence and Launch CS. Her previous work experience includes fifteen years as a math/science/STEM specialist for Region 3 Education Service Center, six years serving as the Assistant Director of the South Texas Rural Systemic Initiative funded by NSF and twelve years as a high school math, science and programming teacher. Sheryl is a Texas Instruments T3 Regional Trainer and a Code.org CSF and CSD facilitator. She is a 2024, 2025 and 2026 micro:bit Champion and currently presents training sessions for Cyber.org.",
       "headshot": "https://lh3.googleusercontent.com/d/1Wpj5WgXO_aFoL6S0qkjwiMSQJNKFHrDK=w640"
     },
@@ -1051,8 +1091,8 @@
       "headshot": "https://lh3.googleusercontent.com/d/1zNLFIfG9uKGo0xZU4OfdP0hdb6hsietw=w640"
     },
     {
-      "id": "p-tara-henderson-nicole-lasky-garcia",
-      "name": "Tara Henderson & Nicole Lasky Garcia",
+      "id": "p-tara-henderson",
+      "name": "Tara Henderson",
       "bio": "Tara Zollinger Henderson is the Director of Education at Explora Science Center and Children’s Museum in Albuquerque, New Mexico. She leads the development, implementation, and evaluation of inquiry-based science education programs serving schools, families, and communities across the state. Her work centers on hands-on learning, educator professional development, and building sustained community partnerships that support meaningful STEM engagement. Tara holds graduate degrees in family studies and nonprofit management, and her research interests include informal learning environments, place-based education, and the role of museums in supporting lifelong learning.",
       "headshot": "https://lh3.googleusercontent.com/d/1mEWELBxBj-97Xd8j8e7NWDgHCxAHvS-F=w640"
     },
@@ -1069,14 +1109,20 @@
       "headshot": "https://lh3.googleusercontent.com/d/161Pv0erSunHyR8Tc4_iEj6wVbKt59PFQ=w640"
     },
     {
+      "id": "p-timara-crichlow",
+      "name": "Timara Crichlow",
+      "bio": "",
+      "headshot": null
+    },
+    {
       "id": "p-tom-wilson",
       "name": "Tom Wilson",
       "bio": "",
       "headshot": null
     },
     {
-      "id": "p-tom-wilson-yvonda-shelton",
-      "name": "Tom Wilson & Yvonda Shelton",
+      "id": "p-vanessa-gutierrez",
+      "name": "Vanessa Gutierrez",
       "bio": "",
       "headshot": null
     },
@@ -1103,6 +1149,12 @@
       "name": "Zachary Beam",
       "bio": "Zachary Beam is a high school science teacher at Newcastle High School in Wyoming, where he has spent the past thirteen years creating student-centered STEM learning experiences built around curiosity, problem solving, and real-world challenges. He helped develop the school's makerspace through grant funding and community support and believes students learn best when they are given the freedom to explore ideas, make mistakes, and demonstrate understanding in meaningful ways. Outside the classroom, Zach enjoys exploring the outdoors with his wife and young son and volunteers with a local trails organization to support trail development and outdoor recreation opportunities in Weston County, Wyoming. When he's not teaching or on the trails, he's usually buried in a project that's a little outside his comfort zone, whether that's building, fixing, learning, or figuring out how to do something he has never done before.",
       "headshot": "https://lh3.googleusercontent.com/d/1okRk6LEWotLJOpFQIUsx3s5HM4AX0Ouc=w640"
+    },
+    {
+      "id": "p-zhuoying-wang",
+      "name": "Zhuoying Wang",
+      "bio": "Zhuoying Wang earned her Ph.D. in Educational Psychology from Texas A&M University. She is currently a Research Associate at the Texas Advanced Computing Center (TACC) Evaluation Service at The University of Texas at Austin. Her research focuses on program evaluation, STEM education, language development, and quantitative research methods. Zhuoying has led the evaluation of multiple initiatives designed to strengthen student outcomes and enhance teacher capacity in STEM education and language development.",
+      "headshot": "https://lh3.googleusercontent.com/d/15pCFYZ3RrMuWwrLCprJw-r77mVtbfs9M=w640"
     }
   ],
   "hosts": [
@@ -1126,25 +1178,25 @@
       "tier": "Gold",
       "amount": "$25,000+",
       "name": "The Burton Family Foundation",
-      "logo": "assets/burton-family-foundation.png"
+      "logo": "assets/burton-family-foundation-logo.png"
     },
     {
       "tier": "Gold",
       "amount": "$25,000+",
       "name": "The Kemper and Ethel Marley Foundation",
-      "logo": null
+      "logo": "assets/kemper-ethel-marley-foundation.png"
     },
     {
       "tier": "Silver",
       "amount": "$10,000",
       "name": "Freeport-McMoRan",
-      "logo": "assets/freeport-mcmoran.png"
+      "logo": "assets/freeport-mcmoran-logo.png"
     },
     {
       "tier": "Copper",
       "amount": "$5,000",
       "name": "SRP",
-      "logo": "assets/srp.png"
+      "logo": "assets/srp-logo.png"
     }
   ]
 }

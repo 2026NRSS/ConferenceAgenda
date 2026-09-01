@@ -54,3 +54,16 @@ After GitHub Pages is working, a domain administrator can point a subdomain such
 - Favorites are stored in the attendee's browser using local storage; there are no attendee accounts.
 - The site includes a Progressive Web App manifest and basic offline caching.
 - Presenter headshots use sanitized public Google Drive image URLs where available and fall back to initials if an image cannot load.
+
+
+## V2 presenter cleanup
+- Presenter profiles are now individual people rather than combined pairs.
+- Sessions may reference multiple individual presenters.
+- Bios/headshots are assigned only when the source sheet supports that individual attribution.
+- Missing second-presenter bios/headshots are intentionally left blank rather than copied from a co-presenter.
+
+
+## V3 branding/location fixes
+- Changed every Room 5 session to Dobbelaere/Science Hall Room 143.
+- Replaced the summit logo with the supplied NRSS logo.
+- Replaced SRP, Freeport-McMoRan, Kemper and Ethel Marley Foundation, and Burton Family Foundation graphics with the supplied image files.
