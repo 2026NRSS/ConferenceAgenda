@@ -26,20 +26,6 @@
     },
     {
       "id": "s-002",
-      "title": "Understanding Learning and Workforce Systems",
-      "day": "Thursday",
-      "date": "2026-09-03",
-      "time": "9:30 AM",
-      "startMinutes": 570,
-      "room": "Dobbelaere/Science Hall Room 143",
-      "type": "Session",
-      "description": "This session will give participants a shared understanding of learning and workforce systems and their attributes. It will explore important features, levers, and change agents across PK-12, Postsecondary, and Workforce systems, leaving participants with a holistic frame of reference for thinking about their local STEMM talent ecosystem. Participants can use this frame to understand the cross-system dynamics at play at a national level, and will reflect on implications in their communities, such as: 1. Identifying fragmentation points between education, workforce, and postsecondary in their own region. 2. Committing to one concrete next step for applying the shared vocabulary and levers in an upcoming meeting, project, or planning effort.",
-      "presenterIds": [
-        "p-stephanie-rodriguez"
-      ]
-    },
-    {
-      "id": "s-003",
       "title": "Healthcare 2030 - A Multisector Discussion on Needs, Assets, and Pathways Across the Healthcare Spectrum",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -56,7 +42,7 @@
       ]
     },
     {
-      "id": "s-004",
+      "id": "s-003",
       "title": "AI in Education - Engineering Prompts for maximizing productivity",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -70,7 +56,7 @@
       ]
     },
     {
-      "id": "s-005",
+      "id": "s-004",
       "title": "Connecting Educators with Environmental Professionals & Resources for meaningful STEM learning",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -85,7 +71,7 @@
       ]
     },
     {
-      "id": "s-006",
+      "id": "s-005",
       "title": "Organized Chaos: Using Evidence, Conversation, and Student Ownership to Drive STEM Learning",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -99,35 +85,21 @@
       ]
     },
     {
-      "id": "s-007",
-      "title": "Root to STEM: How District Decisions Shape Rural Teacher Pipeline Sustainability",
+      "id": "s-006",
+      "title": "Understanding Learning and Workforce Systems",
       "day": "Thursday",
       "date": "2026-09-03",
-      "time": "11:00 AM",
-      "startMinutes": 660,
-      "room": "2",
-      "type": "Session",
-      "description": "Rural STEM teacher shortages are often framed as a supply issue, but this session examines how district-level decisions in staffing, resources, and partnerships shape pipeline sustainability. Drawing on action research and rural district fieldwork, including insights from superintendents, the session introduces a practical framework for identifying how well-intentioned choices can unintentionally limit STEM access over time. Participants will engage in case-based analysis and leave with actionable tools to redesign decision-making and strengthen long-term rural STEM teacher pipelines",
-      "presenterIds": [
-        "p-teneka-robinson"
-      ]
-    },
-    {
-      "id": "s-008",
-      "title": "Turning Knowledge Into Action",
-      "day": "Thursday",
-      "date": "2026-09-03",
-      "time": "11:00 AM",
-      "startMinutes": 660,
+      "time": "9:30 AM",
+      "startMinutes": 570,
       "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
-      "description": "Building on Session 1, this session will deepen the exploration of systems’ attributes, with a focus on getting local and specific. Participants will explore a lever or occupational priority that matters in their community and consider how they could leverage end-to-end systems insights to strengthen their approaches and impact. Participants can use time in this session to: 1. Map existing programs, initiatives, or partnerships in their community across the end-to-end frame of reference introduced in the session. 2. Explore how NAICS, SOC, and CIP codes can be used together as neutral building blocks for mapping STEMM learning to career pathways. 3. Prioritize two to three regional “levers” that could strengthen crosssector STEMM conversations.",
+      "description": "This session will give participants a shared understanding of learning and workforce systems and their attributes. It will explore important features, levers, and change agents across PK-12, Postsecondary, and Workforce systems, leaving participants with a holistic frame of reference for thinking about their local STEMM talent ecosystem. Participants can use this frame to understand the cross-system dynamics at play at a national level, and will reflect on implications in their communities, such as: 1. Identifying fragmentation points between education, workforce, and postsecondary in their own region. 2. Committing to one concrete next step for applying the shared vocabulary and levers in an upcoming meeting, project, or planning effort.",
       "presenterIds": [
         "p-stephanie-rodriguez"
       ]
     },
     {
-      "id": "s-009",
+      "id": "s-007",
       "title": "Semiconductor Partnership Programming",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -142,7 +114,7 @@
       ]
     },
     {
-      "id": "s-010",
+      "id": "s-008",
       "title": "Language Culture and STEM - Indigenous Community Co-Design for STEM Exhibit",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -156,7 +128,7 @@
       ]
     },
     {
-      "id": "s-011",
+      "id": "s-009",
       "title": "Place-Based Learning Connecting Field Research and Work Skills",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -170,21 +142,21 @@
       ]
     },
     {
-      "id": "s-012",
-      "title": "Growing STEM Where You Are: Ecosystem Strategies for Rural Communities",
+      "id": "s-010",
+      "title": "Turning Knowledge Into Action",
       "day": "Thursday",
       "date": "2026-09-03",
-      "time": "1:00 PM",
-      "startMinutes": 780,
+      "time": "11:00 AM",
+      "startMinutes": 660,
       "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
-      "description": "You're already a Field Catalyst. You just need the system to match your energy. In this hands-on workshop, rural STEM providers and educators will discover how to stop operating in isolation and start building the connected, community-wide ecosystem your students deserve. We will explore what a STEM learning ecosystem actually looks like in a rural context, dig into national data trends hitting rural communities right now, and uncover practical strategies you can start using Monday morning. You do not need a big city budget. You need the right connections, a shared vision, and a community that is ready to grow together. We will help you map what you already have, identify the gaps, and take your first real steps toward building something bigger than any one program can do alone. Rural is not a limitation. It is your greatest asset.",
+      "description": "Building on Session 1, this session will deepen the exploration of systems’ attributes, with a focus on getting local and specific. Participants will explore a lever or occupational priority that matters in their community and consider how they could leverage end-to-end systems insights to strengthen their approaches and impact. Participants can use time in this session to: 1. Map existing programs, initiatives, or partnerships in their community across the end-to-end frame of reference introduced in the session. 2. Explore how NAICS, SOC, and CIP codes can be used together as neutral building blocks for mapping STEMM learning to career pathways. 3. Prioritize two to three regional “levers” that could strengthen crosssector STEMM conversations.",
       "presenterIds": [
-        "p-jenny-conklin-frank"
+        "p-stephanie-rodriguez"
       ]
     },
     {
-      "id": "s-013",
+      "id": "s-011",
       "title": "Smithsonian STARS- Scientists Taking Astronomy to Rural Schools",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -199,7 +171,7 @@
       ]
     },
     {
-      "id": "s-014",
+      "id": "s-012",
       "title": "Maximum Profit, Minimum Impact: Sustainable Mining Engineering",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -214,7 +186,7 @@
       ]
     },
     {
-      "id": "s-015",
+      "id": "s-013",
       "title": "AI Productivity for K-12 Educators: Tips and Tricks with Claude, ChatGPT, and Gemini",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -229,7 +201,7 @@
       ]
     },
     {
-      "id": "s-016",
+      "id": "s-014",
       "title": "\"Make, Take, Collaborate” Bringing STEM to life through library partnerships",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -243,50 +215,21 @@
       ]
     },
     {
-      "id": "s-017",
-      "title": "From Pathways to Practice: An Interactive Workshop on Skills Mapping for Rural STEM Education",
+      "id": "s-015",
+      "title": "Growing STEM Where You Are: Ecosystem Strategies for Rural Communities",
       "day": "Thursday",
       "date": "2026-09-03",
       "time": "1:00 PM",
       "startMinutes": 780,
-      "room": null,
-      "type": "Session",
-      "description": "This workshop introduces SciTech’s skills map framework as a practical tool for aligning education, workforce, and industry needs. Participants will explore how to translate broad career pathways into discrete, measurable skills that inform curriculum, advising, and regional workforce strategies. Attendees will leave with a clearer understanding of how to operationalize skills data for real-world impact.",
-      "presenterIds": [
-        "p-tom-wilson",
-        "p-yvonda-shelton"
-      ]
-    },
-    {
-      "id": "s-018",
-      "title": "From Activity to Impact: Measuring What Matters in STEM Networks",
-      "day": "Thursday",
-      "date": "2026-09-03",
-      "time": "2:30 PM",
-      "startMinutes": 870,
       "room": "Dobbelaere/Science Hall Room 143",
       "type": "Session",
-      "description": "This workshop focuses on identifying leverage points that turn STEM network efforts into observable, measurable outcomes. Participants will examine how to move beyond activity tracking toward meaningful indicators of progress, such as skill attainment, career exposure, and partnership effectiveness. The session will provide practical tools for aligning initiatives with data-driven impact and continuous improvement.",
+      "description": "You're already a Field Catalyst. You just need the system to match your energy. In this hands-on workshop, rural STEM providers and educators will discover how to stop operating in isolation and start building the connected, community-wide ecosystem your students deserve. We will explore what a STEM learning ecosystem actually looks like in a rural context, dig into national data trends hitting rural communities right now, and uncover practical strategies you can start using Monday morning. You do not need a big city budget. You need the right connections, a shared vision, and a community that is ready to grow together. We will help you map what you already have, identify the gaps, and take your first real steps toward building something bigger than any one program can do alone. Rural is not a limitation. It is your greatest asset.",
       "presenterIds": [
-        "p-tom-wilson"
+        "p-jenny-conklin-frank"
       ]
     },
     {
-      "id": "s-019",
-      "title": "Youth Leaders In Action: The Chief Science Officer Program",
-      "day": "Thursday",
-      "date": "2026-09-03",
-      "time": "2:30 PM",
-      "startMinutes": 870,
-      "room": "Dobbelaere/Science Hall Room 143",
-      "type": "Session",
-      "description": "Learn how the Chief Science Officers program can be leveraged in your community to build youth leadership skills and support workforce development. Chief Science Officers are students in grades 6-12 who are passionate about STEM education and student voice. They act as STEM ambassadors while building their networks, preparing for their future career, and improving their confidence as leaders. CSO is a program of the SciTech Institute. Through this session, you'll get a taste of the program experience while learning how to start a CSO cohort in your school, district, or town.",
-      "presenterIds": [
-        "p-ashton-grove"
-      ]
-    },
-    {
-      "id": "s-020",
+      "id": "s-016",
       "title": "From AI-Curious to AI-Capable: A Teacher’s First 30 Days with Classroom AI",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -300,7 +243,7 @@
       ]
     },
     {
-      "id": "s-021",
+      "id": "s-017",
       "title": "From Curiosity to Community: Bringing Authentic Research to Any Classroom",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -314,7 +257,7 @@
       ]
     },
     {
-      "id": "s-022",
+      "id": "s-018",
       "title": "Using Deep Discussion in the STEM Classroom",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -328,7 +271,7 @@
       ]
     },
     {
-      "id": "s-023",
+      "id": "s-019",
       "title": "Low-Cost, High-Impact Engineering Activities",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -342,7 +285,7 @@
       ]
     },
     {
-      "id": "s-024",
+      "id": "s-020",
       "title": "Every Kid, Data Ready",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -356,7 +299,21 @@
       ]
     },
     {
-      "id": "s-025",
+      "id": "s-021",
+      "title": "Youth Leaders In Action: The Chief Science Officer Program",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "2:30 PM",
+      "startMinutes": 870,
+      "room": "Dobbelaere/Science Hall Room 143",
+      "type": "Session",
+      "description": "Learn how the Chief Science Officers program can be leveraged in your community to build youth leadership skills and support workforce development. Chief Science Officers are students in grades 6-12 who are passionate about STEM education and student voice. They act as STEM ambassadors while building their networks, preparing for their future career, and improving their confidence as leaders. CSO is a program of the SciTech Institute. Through this session, you'll get a taste of the program experience while learning how to start a CSO cohort in your school, district, or town.",
+      "presenterIds": [
+        "p-ashton-grove"
+      ]
+    },
+    {
+      "id": "s-022",
       "title": "Impacting Women in STEM: Creating Feedback Loops of Opportunity",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -370,7 +327,7 @@
       ]
     },
     {
-      "id": "s-026",
+      "id": "s-023",
       "title": "Designing Rural STEM Innovation: Lessons from a Rural Aerospace Laboratory School",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -384,7 +341,7 @@
       ]
     },
     {
-      "id": "s-027",
+      "id": "s-024",
       "title": "Bits, Bots & Building AI Literacy: AI for Tiny Techs",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -398,7 +355,7 @@
       ]
     },
     {
-      "id": "s-028",
+      "id": "s-025",
       "title": "Science News Learning: Boosting STEM Literacy with Science Journalism",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -413,7 +370,7 @@
       ]
     },
     {
-      "id": "s-029",
+      "id": "s-026",
       "title": "Building the Rural STEM Ecosystem through Connection, Collaboration, and Relationships",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -427,7 +384,7 @@
       ]
     },
     {
-      "id": "s-030",
+      "id": "s-027",
       "title": "Engineering and Technical Institute - A Career Exploration of Willcox and Cochise County in SE Arizona",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -441,7 +398,7 @@
       ]
     },
     {
-      "id": "s-031",
+      "id": "s-028",
       "title": "Global Lessons for Rural AI Education: Insights from a Fulbright Specialist Experience in Senegal",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -455,7 +412,7 @@
       ]
     },
     {
-      "id": "s-032",
+      "id": "s-029",
       "title": "Co-Designing Resaerch. Community Identified Risk and Resilience: Rural Disaster Preparedness",
       "day": "Thursday",
       "date": "2026-09-03",
@@ -466,6 +423,50 @@
       "description": "This session explores disaster preparedness and recovery in rural Arizona, highlighting how geographic isolation, limited infrastructure, and scarce resources shape community resilience. Participants will learn about Co-ID, a community-led, phenomenological research approach that values residents as experts in their own communities. Through images and examples from focus group workshops, the session demonstrates how collaborative knowledge exchange informs the co-design of practical disaster preparedness resources that reflect local priorities and strengthen confidence in responding to natural disasters.",
       "presenterIds": [
         "p-anna-proctor"
+      ]
+    },
+    {
+      "id": "s-030",
+      "title": "Cultivating Collective Impact: School Gardens as Catalysts for Community Stewardship",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "3:30 PM",
+      "startMinutes": 930,
+      "room": "236",
+      "type": "Session",
+      "description": "Research consistently demonstrates that garden-based learning increases student engagement, strengthens STEM understanding, and connects learning to real-world challenges. In this interactive session, participants will experience a classroom-ready garden-based STEM lesson, explore the research behind its effectiveness, and examine how community partnerships can enhance and sustain these learning opportunities. Attendees will collaborate on a hands-on investigation, discuss strategies for implementation across grade levels, and learn how schools can engage community partners to create meaningful, place-based learning experiences. Participants will leave with practical resources, an annual engagement calendar, and actionable next steps for bringing garden-based STEM learning to their students.",
+      "presenterIds": [
+        "p-jessica-hauer"
+      ]
+    },
+    {
+      "id": "s-031",
+      "title": "Magnifying Partnerships for Capacity Building",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "3:30 PM",
+      "startMinutes": 930,
+      "room": "238",
+      "type": "Session",
+      "description": "Rural communities offer powerful assets for STEM education, including place-based knowledge, strong networks, and students motivated by real-world problem solving. This session highlights SARSEF programs available to Arizona educators and students and how they have evolved in response to local needs. Participants will explore how place-based, inquiry-led approaches foster authentic belonging in STEM and engage in a hands-on research proposal activity. The session also includes reflection time to apply insights to participants’ own schools and learning communities.",
+      "presenterIds": [
+        "p-dani-wright",
+        "p-julie-euber"
+      ]
+    },
+    {
+      "id": "s-032",
+      "title": "Teen Science Cafe",
+      "day": "Thursday",
+      "date": "2026-09-03",
+      "time": "3:30 PM",
+      "startMinutes": 930,
+      "room": "242",
+      "type": "Session",
+      "description": "This interactive session introduces the Teen Science Café (TSC) model and explores how it expands STEM access and career exposure for rural youth. Participants will learn how TSC connects teens with STEM professionals through youth-led events that build leadership, communication, and career readiness skills. The session highlights benefits of joining a national network of educators and professionals, including training and ongoing support. Presenters will share strategies for adapting the model for rural communities, and the session concludes with a hands-on marine science activity simulating a Teen Science Café experience.",
+      "presenterIds": [
+        "p-sheila-james",
+        "p-katie-dion"
       ]
     },
     {
@@ -484,50 +485,6 @@
     },
     {
       "id": "s-034",
-      "title": "Cultivating Collective Impact: School Gardens as Catalysts for Community Stewardship",
-      "day": "Thursday",
-      "date": "2026-09-03",
-      "time": "3:30 PM",
-      "startMinutes": 930,
-      "room": "236",
-      "type": "Session",
-      "description": "Research consistently demonstrates that garden-based learning increases student engagement, strengthens STEM understanding, and connects learning to real-world challenges. In this interactive session, participants will experience a classroom-ready garden-based STEM lesson, explore the research behind its effectiveness, and examine how community partnerships can enhance and sustain these learning opportunities. Attendees will collaborate on a hands-on investigation, discuss strategies for implementation across grade levels, and learn how schools can engage community partners to create meaningful, place-based learning experiences. Participants will leave with practical resources, an annual engagement calendar, and actionable next steps for bringing garden-based STEM learning to their students.",
-      "presenterIds": [
-        "p-jessica-hauer"
-      ]
-    },
-    {
-      "id": "s-035",
-      "title": "Magnifying Partnerships for Capacity Building",
-      "day": "Thursday",
-      "date": "2026-09-03",
-      "time": "3:30 PM",
-      "startMinutes": 930,
-      "room": "238",
-      "type": "Session",
-      "description": "Rural communities offer powerful assets for STEM education, including place-based knowledge, strong networks, and students motivated by real-world problem solving. This session highlights SARSEF programs available to Arizona educators and students and how they have evolved in response to local needs. Participants will explore how place-based, inquiry-led approaches foster authentic belonging in STEM and engage in a hands-on research proposal activity. The session also includes reflection time to apply insights to participants’ own schools and learning communities.",
-      "presenterIds": [
-        "p-dani-wright",
-        "p-julie-euber"
-      ]
-    },
-    {
-      "id": "s-036",
-      "title": "Teen Science Cafe",
-      "day": "Thursday",
-      "date": "2026-09-03",
-      "time": "3:30 PM",
-      "startMinutes": 930,
-      "room": "242",
-      "type": "Session",
-      "description": "This interactive session introduces the Teen Science Café (TSC) model and explores how it expands STEM access and career exposure for rural youth. Participants will learn how TSC connects teens with STEM professionals through youth-led events that build leadership, communication, and career readiness skills. The session highlights benefits of joining a national network of educators and professionals, including training and ongoing support. Presenters will share strategies for adapting the model for rural communities, and the session concludes with a hands-on marine science activity simulating a Teen Science Café experience.",
-      "presenterIds": [
-        "p-sheila-james",
-        "p-katie-dion"
-      ]
-    },
-    {
-      "id": "s-037",
       "title": "STEMM Leaders as Talent Builders: Using education expertise to transform career pathway and talent systems",
       "day": "Friday",
       "date": "2026-09-04",
@@ -541,7 +498,7 @@
       ]
     },
     {
-      "id": "s-038",
+      "id": "s-035",
       "title": "Innovative Anatomy: Animal Skulls and Evolutionary Biology in the Classroom",
       "day": "Friday",
       "date": "2026-09-04",
@@ -555,7 +512,7 @@
       ]
     },
     {
-      "id": "s-039",
+      "id": "s-036",
       "title": "Quick and Dirty Grant Writing",
       "day": "Friday",
       "date": "2026-09-04",
@@ -569,7 +526,7 @@
       ]
     },
     {
-      "id": "s-040",
+      "id": "s-037",
       "title": "Curious Minds: Three “What If?” Science Sandboxes Your Students Can Run on Any Chromebook",
       "day": "Friday",
       "date": "2026-09-04",
@@ -583,7 +540,7 @@
       ]
     },
     {
-      "id": "s-041",
+      "id": "s-038",
       "title": "Connecting STEM to Local Trades",
       "day": "Friday",
       "date": "2026-09-04",
@@ -597,7 +554,7 @@
       ]
     },
     {
-      "id": "s-042",
+      "id": "s-039",
       "title": "Panel - Funder Roundtable: A view from the Funder's Perspective",
       "day": "Friday",
       "date": "2026-09-04",
@@ -609,7 +566,7 @@
       "presenterIds": []
     },
     {
-      "id": "s-043",
+      "id": "s-040",
       "title": "When \"Group Think\" is Good Thinking",
       "day": "Friday",
       "date": "2026-09-04",
@@ -624,7 +581,7 @@
       ]
     },
     {
-      "id": "s-044",
+      "id": "s-041",
       "title": "Worlds of Work in Action: Designing Career Exploration that Sticks",
       "day": "Friday",
       "date": "2026-09-04",
@@ -638,7 +595,7 @@
       ]
     },
     {
-      "id": "s-045",
+      "id": "s-042",
       "title": "You Don’t Know If You Don’t Try! Building Rural STEM Opportunities Through Grants and Partnerships",
       "day": "Friday",
       "date": "2026-09-04",
@@ -652,7 +609,7 @@
       ]
     },
     {
-      "id": "s-046",
+      "id": "s-043",
       "title": "All for STEAM! Strategies and activities for creating creating neurodiversity-affirming",
       "day": "Friday",
       "date": "2026-09-04",
@@ -660,14 +617,14 @@
       "startMinutes": 780,
       "room": "242",
       "type": "Session",
-      "description": "This session explores inclusive, hands-on strategies to support neurodiverse learners in STEAM classrooms, grounded in a multi-year NSF research project. Participants will apply Universal Design for Learning (UDL) principles to ensure accessibility for students with autism, ADHD, dyslexia, and other cognitive profiles. The session moves beyond one-size-fits-all instruction by offering varied entry points, sensory-friendly tools, and adaptive technologies. Attendees will learn to build flexible learning environments and leave with a practical guidebook and actionable strategies to increase access and confidence for all learners.",
+      "description": "Explore inclusive strategies and hands-on activities specifically designed to support neurodiverse learners within dynamic STEAM classrooms. Grounded in findings from a multi-year National Science Foundation (NSF) research project, this session delves into the practical application of Universal Design for Learning (UDL) principles. We ensure that science, technology, engineering, arts, and mathematics are accessible to students with varying cognitive profiles, such as autism, ADHD, and dyslexia. Participants will learn how to move beyond a \"one-size-fits-all\" approach by providing varied entry points that allow students to engage with complex concepts through their preferred modalities. We will examine how to create a truly flexible learning environment, incorporating sensory-friendly tools and adaptive technologies, that meets the diverse needs of every student. Every attendee will leave with a comprehensive guidebook of best practices and a toolkit of actionable techniques to lower barriers to participation and inspire confidence in all budding innovators",
       "presenterIds": [
-        "p-tara-henderson",
-        "p-nicole-r-lasky-garcia"
+        "p-nicole-r-lasky-garcia",
+        "p-tara-henderson"
       ]
     },
     {
-      "id": "s-047",
+      "id": "s-044",
       "title": "Globe at Night and STEM Resources with NOIR Labs",
       "day": "Friday",
       "date": "2026-09-04",
@@ -681,7 +638,7 @@
       ]
     },
     {
-      "id": "s-048",
+      "id": "s-045",
       "title": "Creating Life-long Learners and Successful Healthcare Providers: A Model for Teaching Critical Thinking",
       "day": "Friday",
       "date": "2026-09-04",
@@ -695,7 +652,7 @@
       ]
     },
     {
-      "id": "s-049",
+      "id": "s-046",
       "title": "Growing Our Own: How AZTRAP Builds Rural Educator Pipelines",
       "day": "Friday",
       "date": "2026-09-04",
@@ -710,7 +667,7 @@
       ]
     },
     {
-      "id": "s-050",
+      "id": "s-047",
       "title": "Building Rural Computer Science Pathways: A Scalable Ecosystem for Teacher Professional Development and Classroom Integration",
       "day": "Friday",
       "date": "2026-09-04",
@@ -725,7 +682,7 @@
       ]
     },
     {
-      "id": "s-051",
+      "id": "s-048",
       "title": "Leveraging Civil Air Patrol STEM programs to support student engagement with real world workforce",
       "day": "Friday",
       "date": "2026-09-04",
@@ -739,7 +696,7 @@
       ]
     },
     {
-      "id": "s-052",
+      "id": "s-049",
       "title": "Healthcare STEM Careers and Middle School Curriculum",
       "day": "Friday",
       "date": "2026-09-04",
@@ -754,7 +711,7 @@
       ]
     },
     {
-      "id": "s-053",
+      "id": "s-050",
       "title": "Real Data, Real Impact: How Rural Students Can Map, Protect, and Save Arizona’s Streams",
       "day": "Friday",
       "date": "2026-09-04",
@@ -768,7 +725,7 @@
       ]
     },
     {
-      "id": "s-054",
+      "id": "s-051",
       "title": "FarmBeats For MiddleSchool",
       "day": "Friday",
       "date": "2026-09-04",
@@ -842,7 +799,7 @@
       "id": "p-cori-araza",
       "name": "Cori Araza",
       "bio": "",
-      "headshot": null
+      "headshot": "https://lh3.googleusercontent.com/d/1JiCRVjcsB5P236tUOP8hLDdQndwfQkkS=w640"
     },
     {
       "id": "p-cori-denis",
@@ -854,7 +811,7 @@
       "id": "p-dan-moreno",
       "name": "Dan Moreno",
       "bio": "After serving as a high school science teacher in rural WI for 16 years, Dan moved to Tucson and the University of Arizona to pursue a PhD in science teaching and teacher education. As part of his graduate studies, he connected with the School of Mining Engineering & Mineral Resources in the University's College of Engineering to design curriculum and teacher professional learning opportunities. Since then, Dan has traveled the country facilitating workshops on mineral resource and mining education for teachers, as well as classroom lessons, demonstrations, and exhibitions at school and community STEAM events, college fairs, and career days.",
-      "headshot": null
+      "headshot": "https://lh3.googleusercontent.com/d/1cpNaKk5NcLa03JFY0eQA4q3-C2Tc_SRm=w640"
     },
     {
       "id": "p-dani-wright",
@@ -962,7 +919,7 @@
       "id": "p-katie-dion",
       "name": "Katie Dion",
       "bio": "",
-      "headshot": null
+      "headshot": "https://lh3.googleusercontent.com/d/1eQTAx7cTX0MSnwVsDpuCnVne71rxvBqJ=w640"
     },
     {
       "id": "p-kelsie-murphy",
@@ -974,7 +931,7 @@
       "id": "p-kitty-roberts",
       "name": "Kitty Roberts",
       "bio": "",
-      "headshot": null
+      "headshot": "https://lh3.googleusercontent.com/d/1B8r_yaUS_hAqQOMbM2deAydLOScvB35z=w640"
     },
     {
       "id": "p-leslie-bell",
@@ -1076,7 +1033,7 @@
       "id": "p-sheila-james",
       "name": "Sheila James",
       "bio": "",
-      "headshot": null
+      "headshot": "https://lh3.googleusercontent.com/d/1W6ZhoxBlCHYzazaN6c6X5Rq59BhfebWK=w640"
     },
     {
       "id": "p-sheryl-roehl",
@@ -1103,20 +1060,8 @@
       "headshot": null
     },
     {
-      "id": "p-teneka-robinson",
-      "name": "Teneka Robinson",
-      "bio": "Teneka Robinson is a doctoral researcher in the Doctor of Education program at Northeastern University, concentrating in Transformative School Leadership, where her research examines how structural funding inequities in Alabama's Black Belt districts — rooted in a history of racialized disinvestment — constrain district leadership decisions and destabilize the STEM teacher pipeline. Beyond her research, she is the Founder and Principal Consultant of Teneka Robinson Consulting, a K–16 systems strategy practice partnering with school districts, higher education institutions and nonprofits nationwide to align educator preparation, hiring, and retention across the pipeline. A contributing author to two published books centered on education and leadership, Teneka brings both scholarly rigor and practitioner experience to the National Rural STEM Summit, where she presents Root to STEM: How District Decisions Shape Rural Teacher Pipeline Sustainability — a session exploring how district-level decisions, shaped by decades of inequitable funding, determine whether rural STEM teacher pipelines grow or collapse, and what leaders can do about it.",
-      "headshot": "https://lh3.googleusercontent.com/d/161Pv0erSunHyR8Tc4_iEj6wVbKt59PFQ=w640"
-    },
-    {
       "id": "p-timara-crichlow",
       "name": "Timara Crichlow",
-      "bio": "",
-      "headshot": null
-    },
-    {
-      "id": "p-tom-wilson",
-      "name": "Tom Wilson",
       "bio": "",
       "headshot": null
     },
@@ -1130,7 +1075,7 @@
       "id": "p-wesley-schofield",
       "name": "Wesley Schofield",
       "bio": "",
-      "headshot": null
+      "headshot": "https://lh3.googleusercontent.com/d/1ApE9qZNJDeOtGTkyctZzMN85m-_RJ2vz=w640"
     },
     {
       "id": "p-yir-glora-yueh-ph-d",

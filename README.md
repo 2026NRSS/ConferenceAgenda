@@ -67,3 +67,11 @@ After GitHub Pages is working, a domain administrator can point a subdomain such
 - Changed every Room 5 session to Dobbelaere/Science Hall Room 143.
 - Replaced the summit logo with the supplied NRSS logo.
 - Replaced SRP, Freeport-McMoRan, Kemper and Ethel Marley Foundation, and Burton Family Foundation graphics with the supplied image files.
+
+
+## V4 revised agenda update
+- Rebuilt conference schedule from the updated 2026 Master Agenda list.
+- Removed sessions no longer present in the revised agenda.
+- Applied revised room assignments from the updated workbook.
+- Presenter directory now contains only presenters attached to active sessions.
+- Preserved individual presenter profiles, sponsor logos, NRSS branding, and public-room naming fixes.
