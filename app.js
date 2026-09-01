@@ -135,8 +135,9 @@ function showSession(id) {
   const s = sessionById(id); if (!s) return;
   const ps = presentersForSession(s);
   const saved = state.favorites.has(id);
+  const isBreak = /break|breakfast/i.test(s.title);
   $('#dialogContent').innerHTML = `<div class="detail-head"><span class="session-type">${esc(s.type)}</span><h2>${esc(s.title)}</h2><div class="detail-meta">${esc(s.day)} · ${esc(s.time)}${s.room ? ` · Room ${esc(s.room)}` : ''}</div></div>
-    ${s.description ? `<div class="detail-description">${esc(s.description)}</div>` : `<div class="detail-description"><em>Session description coming soon.</em></div>`}
+    ${s.description ? `<div class="detail-description">${esc(s.description)}</div>` : isBreak ? '' : `<div class="detail-description"><em>Session description coming soon.</em></div>`}
     <div class="button-row"><button type="button" class="button primary small" data-dialog-favorite="${s.id}">${saved ? '★ Saved to My Schedule' : '☆ Add to My Schedule'}</button></div>
     ${ps.length ? `<div class="detail-presenters"><h3>Presenter${ps.length > 1 ? 's' : ''}</h3>${ps.map(p => `<div class="detail-presenter-row">${presenterImage(p)}<button type="button" data-dialog-presenter="${p.id}">${esc(p.name)}</button></div>`).join('')}</div>` : ''}`;
   $('[data-dialog-favorite]')?.addEventListener('click', () => toggleFavorite(s.id));
