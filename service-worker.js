@@ -1,4 +1,4 @@
-const CACHE = 'nrss26-v7';
+const CACHE = 'nrss26-v8';
 const CORE = [
   './', './index.html', './styles.css', './app.js', './conference-data.json', './manifest.json',
   './assets/summit-logo.png', './assets/mountain-brand.png', './assets/icon-192.png', './assets/icon-512.png',
